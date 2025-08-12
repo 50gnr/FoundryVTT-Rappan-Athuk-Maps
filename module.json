@@ -22,8 +22,8 @@
     ],
     "compatibility": {
         "minimum": 10,
-        "verified": 12,
-        "maximum": 12
+        "verified": 13,
+        "maximum": 13
     },
     "url": "https://github.com/Lavaeolous/FoundryVTT-Rappan-Athuk-Maps",
     "bugs": "https://github.com/Lavaeolous/FoundryVTT-Rappan-Athuk-Maps/issues",
